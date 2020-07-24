@@ -1,0 +1,68 @@
+
+body{
+  text-align: center;
+  background-image: url(../images/mehmet-turgut-kirkgoz-Lap7KOJ1J8s-unsplash.jpg);
+  background-size: no-repeat;
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+  background-attachment: scroll;
+  margin-bottom: 40px;
+}
+h1{
+  font-style: normal;
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 10px;
+  text-shadow: 5px 6px 7px;
+  color: rgb(75, 85, 51);
+  font-size: 35px;
+}
+h2 {
+  font-weight: bold;
+  color: darkolivegreen;
+}
+h2 span{
+  text-shadow: 2px 3px 4px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.content p{
+  line-height: 120%;
+  margin:15px 50px 15px 50px;
+  padding: 10px;
+  text-align: left;
+  font-size: 20px;
+  text-indent: 30px;
+}
+.content img{
+  height: 400px;
+  width: 500px;
+}
+#par1{
+letter-spacing: 5px;
+color: rgb(78, 78, 78);
+}
+#par2{
+letter-spacing: 5px;
+color: rgb(78, 78, 78);
+}
+#par3{
+letter-spacing: 5px;
+color: rgb(90, 13, 13);
+margin-bottom: 60px;
+}
+a{
+  color: darkgreen;
+  font-size: 25px;
+}
+.pub-article{
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+table{
+  margin: 0px auto;
+  color: gray;
+  border-collapse: collapse;
+  empty-cells: hide;
+  font-size: 25px;
+}
