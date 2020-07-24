@@ -3,7 +3,7 @@ body{
   text-align: center;
   background-image: url(../images/rodion-kutsaev-IJ25m7fXqtk-unsplash.jpg);
   background-size: no-repeat;
-  background-size: 400px 500px;
+  background-size: contain;
   font-family: 'Times New Roman', Times, serif;
   background-attachment: scroll;
   margin-bottom: 40px;
